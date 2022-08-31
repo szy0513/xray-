@@ -1780,7 +1780,7 @@ menu() {
 	clear
 	echo "#############################################################"
 	echo -e "#                     ${RED}Xray一键安装脚本${PLAIN}                      #"
-	echo -e "# ${GREEN}作者${PLAIN}:MisakaNo                           #"
+	echo -e "# ${GREEN}作者${PLAIN}:MisakaNo                                          #"
 	echo "#############################################################"
 	green "今日运行次数：$TODAY   总共运行次数：$TOTAL"
 	echo -e "  "
